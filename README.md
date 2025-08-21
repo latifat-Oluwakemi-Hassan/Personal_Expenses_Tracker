@@ -30,3 +30,6 @@ Data Structures → lists to organize and group expenses, using indexing to sum 
 This is my first step toward applying Python in real-life projects while improving my coding and financial tracking skills.
 
 
+## 💰 How to Run the project:
+- Clone this Repository:
+  https://github.com/latifat-Oluwakemi-Hassan/Personal_Expenses_Tracker.git
